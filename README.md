@@ -16,3 +16,7 @@ expressing project metadata in a vendor-neutral way than could be utilized by a
 variety of consumers.
 
 See [prior art](prior-art.md).
+
+Discussion also happening on the [TODO mailing list][].
+
+[TODO mailing list]: https://groups.google.com/group/todogroup
