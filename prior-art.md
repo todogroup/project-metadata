@@ -35,3 +35,4 @@ projects that document types of metadata we may be interested in:
 
  - <https://github.com/orangemug/stability-badges>
  - <https://github.com/insin/caveat-utilitor>
+ - <https://github.com/danielbachhuber/statemarks>
