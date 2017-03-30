@@ -25,6 +25,14 @@ Documented as powering the [18F Dashboard](https://18f.gsa.gov/dashboard)
 **Docs:** <http://www.rubydoc.info/gems/about_yml/0.0.10>  
 **Example:** <https://github.com/18F/about_yml/blob/master/.about.yml>
 
+## Schemas
+
+Various schemas have been developed to describe software projects:
+
+ - https://schema.org/SoftwareApplication
+ - https://github.com/CodeMeta/codemeta
+ - https://github.com/ewilderj/doap
+
 ## README Badges
 
 One common ad hoc way of expressing some of this metadata is through badges
