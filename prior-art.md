@@ -25,6 +25,19 @@ Documented as powering the [18F Dashboard](https://18f.gsa.gov/dashboard)
 **Docs:** <http://www.rubydoc.info/gems/about_yml/0.0.10>  
 **Example:** <https://github.com/18F/about_yml/blob/master/.about.yml>
 
+### .ABOUT files, ABC Data
+​
+Simple convention with metadata YAML files stored side-by-side with code
+they document.(Note: these predate the 18F about_yaml)
+​
+Used by AboutCode.org, libraries.io and other:
+ **Docs:** https://github.com/nexB/aboutcode/tree/master/aboutcode-data
+ **Example:**
+ - https://github.com/nexB/scancode-toolkit/tree/develop/thirdparty/prod
+ - https://libraries.io/npm/jquery/3.2.1.about 
+ - https://github.com/triplecheck/components/tree/master/samples
+
+
 ## Schemas
 
 Various schemas have been developed to describe software projects:
@@ -44,3 +57,4 @@ projects that document types of metadata we may be interested in:
  - <https://github.com/orangemug/stability-badges>
  - <https://github.com/insin/caveat-utilitor>
  - <https://github.com/danielbachhuber/statemarks>
+
